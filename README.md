@@ -8,3 +8,7 @@ drzeeshanahmed/GVViZ_SourceCode
 ```
 java -jar GVViZ-1.0-Public.jar
 ```
+
+## Contacts:
+Email: zahmed@ifh.rutgers.edu
+Lab: https://promis.rutgers.edu/
