@@ -1,5 +1,8 @@
 # GVViZ-Public
-GVViZ: A Gene Variant Visualization Tool 
+GVViZ: A tool for visualizing genes with disease causing variants.
+
+Source code is available at GitHub: 
+drzeeshanahmed/GVViZ_SourceCode
 
 ## Quick Start
 ```
